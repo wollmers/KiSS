@@ -5,12 +5,7 @@ use warnings;
 
 use v5.10.1;
 
-use lib '/home/helmut/MYDLjE/per/lib';
-
 use Mojo::DOM;
-#use Template::Semantic;
-#use HTML::TreeBuilder;
-#use HTML::TreeBuilder::XPath;
 
 use Data::Dumper;
 
