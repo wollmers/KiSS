@@ -1,7 +1,0 @@
-#!/usr/bin/perl
-
-use lib '/home/helmut/kromp/cms-bin/';
-
-
-1;
-
